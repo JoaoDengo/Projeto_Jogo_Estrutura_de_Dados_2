@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1740165467 source:c:\users\joaov\onedrive\Área de trabalho\estrutura2\projetofinalestrutura2_joaodengo\projetofinal_lista_joaodengo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"itemTrunfo.h"
+
+1739925872 c:\users\joaov\onedrive\Área de trabalho\estrutura2\projetofinalestrutura2_joaodengo\projetofinal_lista_joaodengo\itemtrunfo.h
+
+1740166395 source:c:\users\joaov\onedrive\Área de trabalho\estrutura2\projetofinalestrutura2_joaodengo\projetofinal_lista_joaodengo\itemtrunfo.c
+	<stdio.h>
+	<stdlib.h>
+	"itemTrunfo.h"
+
